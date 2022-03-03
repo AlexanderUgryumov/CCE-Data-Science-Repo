@@ -1,2 +1,2 @@
 # CCE-Data-Science-Repo
-This is repository to contain and share codes for data science for GPN Complex Engineering Center
+This is repository to contain practical notebooks of data science application for geoscience and engineering tasks.
